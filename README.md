@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS,DSA with java**
 
-- 👨‍💻 All of my projects are available at [Portfolio-page](Portfolio-page)
+- 👨‍💻 All of my projects are available at [My-Projectz]
 
 - 💬 Ask me about **Java , C ,& C++**
 
