@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **santikumr065@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences <a href="https://santhosh-sks.github.io/Portfolio/">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
