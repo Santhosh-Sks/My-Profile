@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS,DSA with java**
 
-- 👨‍💻 All of my projects are available at [My-Projects](Santhosh-Sks/My-Projects)
+- 👨‍💻 All of my projects are available at [My-Projects](Santhosh-Sks/portfolio)
 
 - 💬 Ask me about **Java , C ,& C++**
 
