@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS,DSA with java**
 
-- 👨‍💻 All of my projects are available at [My-Projects](/portfolio)
-
+- 👨‍💻 All of my projects are available at <a href="https://santhosh-sks.github.io/Portfolio/">My projects</a>
 - 💬 Ask me about **Java , C ,& C++**
 
 - 📫 How to reach me **santikumr065@gmail.com**
